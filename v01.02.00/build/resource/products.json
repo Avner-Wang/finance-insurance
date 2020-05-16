@@ -1,0 +1,91 @@
+[
+{
+  "id": 4,
+  "channel": "zhenglong",
+  "code": "sweet",
+  "source": "tplife",
+  "company": "cntaiping",
+  "type": "2",
+  "title": "太平盛世团体甜蜜蜜壹号",
+  "price": 300,
+  "img": "img/sweet.jpg",
+  "category": "sweet",
+  "description":
+    [
+      {"id": 1, "content": "糖尿病患者和健康人群均可投保"},
+      {"id": 2, "content": "保额10万或20万"},
+      {"id": 3, "content": "提供糖尿病并发症保障"}
+    ]
+},
+{
+    "id": 0,
+    "channel": "xuanyuan",
+    "code": "ENTML",
+    "source": "pflife",
+    "company": "FUXING",
+    "type": "1",
+    "title": "复星保德信爱家e守护定期寿险",
+    "price": 1000,
+    "img": "img/ENTML.jpg",
+    "category": "life",
+    "description":
+      [
+        {"id": 1, "content": "寿险保障至60周岁"},
+        {"id": 2, "content": "免体检保额最高可达百万元"},
+        {"id": 3, "content": "每月领取家庭收入保证金，与房贷匹配"}
+      ]
+  },
+  {
+    "id": 1,
+    "channel": "xuanyuan",
+    "code": "ENDAB",
+    "source": "pflife",
+    "company": "FUXING",
+    "type": "1",
+    "title": "复星保德信养老e守护年金保险",
+    "price": 2000,
+    "img": "img/ENDAB.jpg",
+    "category": "old",
+    "description":
+      [
+        {"id": 1, "content": "养老金终身领取，无惧长寿风险"},
+        {"id": 2, "content": "养老金保证领取20年"}
+      ]
+  },  
+  {
+    "id": 2,
+    "channel": "xuanyuan",
+    "code": "ENSBC",
+    "source": "pflife",
+    "company": "FUXING",
+    "type": "1",
+    "title": "复星保德信俪人守护A款",
+    "price": 5,
+    "img": "img/ENSBC.jpg",
+    "category": "health",
+    "description":
+      [
+        {"id": 1, "content": "10万保额仅需50元，真正的公益保险"},
+        {"id": 2, "content": "最高保额超越同类产品，可达30万元"},
+        {"id": 3, "content": "投保免体检，确诊即赔"}
+      ]
+  },
+  {
+    "id": 3,
+    "channel": "xuanyuan",
+    "code": "ENSFC",
+    "source": "pflife",
+    "company": "FUXING",
+    "type": "1",
+    "title": "复星保德信俪人守护B款",
+    "price": 150,
+    "img": "img/ENSFC.jpg",
+    "category": "health",
+    "description":
+      [
+        {"id": 1, "content": "涵盖多项女性易发癌症的保障"},
+        {"id": 2, "content": "10万保障最低仅需150元"},
+        {"id": 3, "content": "网上投保，无需体检，确诊即赔"}
+      ]
+  }
+]

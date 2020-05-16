@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html style="font-size: 20px;">
+<head>
+  <base href="/">
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=0.5, minimum-scale=0.5, maximum-scale=0.5, user-scalable=no"/>
+  <title>ajaxtest</title>
+  <link rel="stylesheet" href="css/main.css?timestamp=1562253613611"/>
+</head>
+<body>
+<div id="app"></div>
+<script src="js/vendor.js?timestamp=1562253613611"></script>
+<script src="js/vendor.bundle.js?timestamp=1562253613611"></script>
+<script src="js/bundle.js?timestamp=1562253613611"></script>
+<button class="btn btn-warning" id="but">button</button>
+<script type="text/javascript">
+  $('#but').click(function(){
+      $.ajax({
+          url:'HotCitiesByCinema.api',
+          dataType: 'JSON',
+          contentType: '',
+          
+        
+      }).done( data=>{
+        console.log(data);
+      }).fail(data =>{
+
+      })
+  })
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "code": "FUXING",
+    "name": "复星保德信人寿保险有限公司",
+    "description": "为客户提供差异化的产品与服务",
+    "logo": "img/fuxing-logo.png",
+    "products": 
+        [
+            {
+    	       "code": "ENSBC",
+    	       "source": "pflife",
+    	       "type": "1",
+    	       "title": "俪人守护",
+                "img": "img/fuxing-hot-1.jpg",
+    	       "price": 50
+            },
+            {
+                "code": "ENDAB",
+                "source": "pflife",
+                "type": "1",
+                "title": "养老e守护",
+                "img": "img/fuxing-hot-2.jpg",
+                "price": 1000
+            }
+        ]
+  }
+]
